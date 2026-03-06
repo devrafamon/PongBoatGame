@@ -27,20 +27,6 @@ Diferente do Pong tradicional, este jogo inclui **mecânicas adicionais e power-
 
 ---
 
-# 📸 Gameplay Preview
-
-## 🎥 Gameplay
-
-![Gameplay](https://drive.google.com/file/d/12pB-e9RMR6x4u2uz1hQquJzbFH1311l4/view?usp=sharing)
-
-## 📷 Screenshots
-
-| Gameplay | Gameplay |
-|--------|--------|
-| ![](https://drive.google.com/file/d/12t43Xm9hS2YdmK7hemg5uPSsKP9pzofo/view?usp=sharing)| ![](https://drive.google.com/file/d/1pFylJAT12SCiG98hdFkSAQBxSQ-1UmPc/view?usp=sharing) |
-
----
-
 # 🎮 Controles
 
 | Jogador | Controles |
@@ -149,3 +135,5 @@ Este projeto foi desenvolvido utilizando:
 - **GitHub**
 
 ---
+# Assets visuais por:
+https://github.com/Edugas20
