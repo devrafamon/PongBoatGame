@@ -8,9 +8,7 @@
 Um jogo **Pong 2D desenvolvido em C# utilizando Unity**, com temática náutica.
 
 O objetivo do projeto foi aprender os fundamentos de programação aplicados ao desenvolvimento de jogos, implementando uma variação do clássico **Pong**, porém com mecânicas adicionais que modificam a dinâmica tradicional da partida.  
-  
-As mecânicas principais do jogo foram implementadas, porém ainda existem melhorias e bugs a serem tratados.  
-No momento, não há previsão de continuidade ou manutenção deste projeto.
+
 ---
 
 # 🎮 Sobre o Jogo
